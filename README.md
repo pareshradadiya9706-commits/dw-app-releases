@@ -3,8 +3,8 @@
 Official public releases repository for **DW Ultimate Windows & Aluminium**.
 
 - **Latest Release:** [v27](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/tag/v27)
-- **Version:** 1.0.27 (Build 27)
-- **Release Date:** 2026-10-05 07:42 UTC
+- **Version:** 1.0.1 (Build 27)
+- **Release Date:** 2026-10-05 07:43 UTC
 
 ### 📥 ડાઉનલોડ લિંક્સ (Direct Download Links):
 - 📱 **મોબાઇલ માટે (Mobile Smartphones):** [app-arm64-v8a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v27/app-arm64-v8a-release.apk)
