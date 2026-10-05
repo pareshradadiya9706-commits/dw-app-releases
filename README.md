@@ -2,11 +2,11 @@
 
 Official public releases repository for **DW Ultimate Windows & Aluminium**.
 
-- **Latest Release:** [v23](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/tag/v23)
-- **Version:** 1.0.1 (Build 23)
-- **Release Date:** 2026-10-05 16:49 UTC
+- **Latest Release:** [v64](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/tag/v64)
+- **Version:** 1.0.1 (Build 64)
+- **Release Date:** 2026-10-05 16:51 UTC
 
 ### 📥 ડાઉનલોડ લિંક્સ (Direct Download Links):
-- 📱 **મોબાઇલ માટે (Mobile Smartphones):** [app-arm64-v8a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v23/app-arm64-v8a-release.apk)
-- 💻 **કમ્પ્યુટર / લેપટોપ માટે (PC / Laptop / Emulator):** [app-x86_64-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v23/app-x86_64-release.apk)
-- 📱 **જૂના ૩૨-બીટ મોબાઇલ માટે (Older 32-bit Phones):** [app-armeabi-v7a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v23/app-armeabi-v7a-release.apk)
+- 📱 **મોબાઇલ માટે (Mobile Smartphones):** [app-arm64-v8a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v64/app-arm64-v8a-release.apk)
+- 💻 **કમ્પ્યુટર / લેપટોપ માટે (PC / Laptop / Emulator):** [app-x86_64-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v64/app-x86_64-release.apk)
+- 📱 **જૂના ૩૨-બીટ મોબાઇલ માટે (Older 32-bit Phones):** [app-armeabi-v7a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v64/app-armeabi-v7a-release.apk)
