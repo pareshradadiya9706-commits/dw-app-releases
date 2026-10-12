@@ -2,12 +2,12 @@
 
 Official public releases repository for **DW Ultimate Windows & Aluminium**.
 
-- **Latest Release:** [v110](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/tag/v110)
-- **Version:** 1.0.110 (Build 110)
-- **Release Date:** 2026-10-12 08:22 UTC
+- **Latest Release:** [v111](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/tag/v111)
+- **Version:** 1.0.111 (Build 111)
+- **Release Date:** 2026-10-12 11:42 UTC
 
 ### 📥 ડાઉનલોડ લિંક્સ (Direct Download Links):
-- 📱 **મોબાઇલ માટે (Mobile Smartphones - ARM64):** [app-arm64-v8a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v110/app-arm64-v8a-release.apk)
-- 🌐 **યુનિવર્સલ વર્ઝન (Universal - All Devices):** [app-universal-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v110/app-universal-release.apk)
-- 📱 **જૂના ૩૨-બીટ મોબાઇલ માટે (Older 32-bit Phones - ARMv7):** [app-armeabi-v7a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v110/app-armeabi-v7a-release.apk)
-- 💻 **કમ્પ્યુટર / લેપટોપ માટે (PC / Laptop / Emulator - x86_64):** [app-x86_64-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v110/app-x86_64-release.apk)
+- 📱 **મોબાઇલ માટે (Mobile Smartphones - ARM64):** [app-arm64-v8a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v111/app-arm64-v8a-release.apk)
+- 🌐 **યુનિવર્સલ વર્ઝન (Universal - All Devices):** [app-universal-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v111/app-universal-release.apk)
+- 📱 **જૂના ૩૨-બીટ મોબાઇલ માટે (Older 32-bit Phones - ARMv7):** [app-armeabi-v7a-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v111/app-armeabi-v7a-release.apk)
+- 💻 **કમ્પ્યુટર / લેપટોપ માટે (PC / Laptop / Emulator - x86_64):** [app-x86_64-release.apk](https://github.com/pareshradadiya9706-commits/dw-app-releases/releases/download/v111/app-x86_64-release.apk)
